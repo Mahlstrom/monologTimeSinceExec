@@ -1,6 +1,6 @@
 {
     "name": "mahlstrom/monolog-time-since-exec-processor",
-    "description": "Library for accessing remote files",
+    "description": "Monolog processor that shows time since execution",
     "minimum-stability": "stable",
     "authors": [
         {
